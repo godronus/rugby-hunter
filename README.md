@@ -24,7 +24,7 @@ README.md
 style.css
 ```
 
-3. Now open your chrome browser and enter [chrome://extensions/](chrome://extensions/) in the url bar and press enter.
+3. Now open your chrome browser and enter `chrome://extensions/` in the url bar and press enter.
 4. Turn on developer mode (top right)
 5. Now click the `Load unpacked` button in the top left corner and select the folder where all of the above files where saved.
 6. The extension is now installed and you can find it by clicking the little puzzle icon, top right in chrome. If you want it always visible you can  `pin` the rugby-hunter extension, or continue to access it through this puzzle icon.
