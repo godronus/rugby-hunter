@@ -6,9 +6,10 @@ To do this it hides all available thumbnails, as they often contain scores in th
 
 ## Installation
 
-Click the green `code` button and select `Download ZIP`. After you have the available file you should unzip it into a folder on your machine.
+1. Click the green `code` button above and select `Download ZIP`.
+2. After you have the available file downloaded, you should unzip/extract it into a folder on your machine (will probably get called `rugby-hunter-main`).
 
-You will see that this folder now contains the required files to install as a Chrome Extension:
+You will see that this folder now contains all the required files to install as a Chrome Extension:
 
 ```
 background.js
@@ -23,26 +24,20 @@ README.md
 style.css
 ```
 
-Now open your chrome browser and visit [chrome://extensions/](chrome://extensions/)
-
-Here you should click the `Load unpacked` button in the top left corner and select the folder where all of the above files live.
-
-This will then have installed everything you need.
-
-(p.s. you may have to click the little puzzle icon top right in chrome and `pin` the rugby-hunter icon to see it)
-
+3. Now open your chrome browser and enter [chrome://extensions/](chrome://extensions/) in the url bar and press enter.
+4. Turn on developer mode (top right)
+5. Now click the `Load unpacked` button in the top left corner and select the folder where all of the above files where saved.
+6. The extension is now installed and you can find it by clicking the little puzzle icon, top right in chrome. If you want it always visible you can  `pin` the rugby-hunter extension, or continue to access it through this puzzle icon.
 
 
 
 ## Usage
 
-Before visiting [www.youtube.com](https://www.youtube.com/) I would recommend clicking the little score-card icon that now exists within chrome as an extension. (top right of browser)
+1. Click the score-card icon (top right in chrome, if you pinned it). Otherwise puzzle icon (top right) and select rugby-hunter in the menu.  This will in turn show a popup button that you can click to enable (will turn green).
 
-This will in turn show a popup button that you can click to enable (will turn green).
+2. Now visit [www.youtube.com](https://www.youtube.com/) and you will get a subset of youtube search results / views. ( If you tube is already open you may need to refresh to see pink blocks )
 
-With this enabled you will now get a subset of youtube search results / views.
-
-So search for the game you after: i.e. `South Africa vs England` and you will be shown the results with pink blocks and redacted text.
+3. Search for the game you are after: i.e. `South Africa vs England` and you will be shown the results with pink blocks and redacted text.
 
 Word of warning!! you may get a flash of the original site before the extension scrubs the page... LOOK AWAY!!!
 
@@ -51,7 +46,6 @@ If you cannot see pink blocks, its not working!!! try refreshing the page (press
 Finding the correct video to watch has become a little trickier now as the wording is redacted, however I have ensured that the video duration stays visible in the pink block.
 
 So look for match length videos. Good Luck!!!
-
 
 
 
