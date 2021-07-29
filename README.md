@@ -29,11 +29,8 @@ Here you should click the `Load unpacked` button in the top left corner and sele
 
 This will then have installed everything you need.
 
-(p.s. you may have to click the little puzzle icon top right in chrome and `pin` the rugby-hunter icon to see it)
-
-
-
-
+(p.s. you may have to click the little puzzle icon top right in chrome and `pin` the rugby-hunter icon to see it)   
+  
 ## Usage
 
 Before visiting [www.youtube.com](https://www.youtube.com/) I would recommend clicking the little score-card icon that now exists within chrome as an extension. (top right of browser)
@@ -52,9 +49,9 @@ Finding the correct video to watch has become a little trickier now as the wordi
 
 So look for match length videos. Good Luck!!!
 
+  
 
-
-
+  
 ## Updating the redacted words list
 
 In `content.js` you will find a long list of comma seperated words that the extension uses to redact. (blacklistedTerms)
