@@ -18,18 +18,21 @@ const blacklistedTerms = [
   'edged',
   'first',
   'forget',
+  'grab',
   'high',
   'hope',
   'incredible',
   'last',
   'lead',
   'lesson',
+  'level',
   'lose',
   'loss',
   'low',
   'mammoth',
   'mounted',
   'rout',
+  'seize',
   'stolen',
   'strong',
   'taught',
@@ -48,8 +51,8 @@ const scrubText = (str = '') => {
   for (let i = 0; i < words.length; i += 1) {
     blacklistedTerms.forEach((badTerm) => {
       if (words[i].toLowerCase().includes(badTerm)) {
-        if (i > 0) words[i - 1] = '*'
-        if (i < words.length - 2) words[i + 1] = '*'
+        if (i > 0) words[i - 1] = ''
+        if (i < words.length - 2) words[i + 1] = ''
         words[i] = ''
       }
     })
