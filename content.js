@@ -28,7 +28,7 @@ const blacklistedTerms = [
   'level',
   'lose',
   'loss',
-  'low',
+  'luck',
   'mammoth',
   'mounted',
   'rout',
