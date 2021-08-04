@@ -8,6 +8,7 @@ const blacklistedTerms = [
   'comeback',
   'claim',
   'crush',
+  'dash',
   'defeat',
   'defend',
   'destroy',
